@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-sometimes, absolute placement does not work as planned. Improvements were made to my app by trial and error. 
+I made several attempts to make a SETTING page. I was unable to modify it. Improvements were made to my app by trial and error. 
 
 ## License
 
